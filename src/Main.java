@@ -1,9 +1,9 @@
-class Node {
+class Node1 {
     int data;
     Node left, right;
 
     // Constructor
-    public Node(int item) {
+    public Node1(int item) {
         data = item;
         left = right = null;
     }
